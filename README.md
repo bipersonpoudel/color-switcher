@@ -1,0 +1,1 @@
+This is a simple project using Javascript to change the background color of the webpage based on the button clicked made by the user.
